@@ -1,9 +1,75 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="UAJ0SNdaKUhhqXjwoU_2">
-    <mxGraphModel>
+    <mxGraphModel dx="1178" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u89XBhYRGHwDl4UNTGdL-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;apiajax&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;服务拆分&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="340" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="u89XBhYRGHwDl4UNTGdL-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;bestcrm-service&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;服务&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="110" x="150" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="u89XBhYRGHwDl4UNTGdL-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;bestcrm-manage&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;分支管理&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="190" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="u89XBhYRGHwDl4UNTGdL-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;bestcrm-ai&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;超级助手&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="330" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="u89XBhYRGHwDl4UNTGdL-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;bestcrm-cust&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;客户&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="500" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="u89XBhYRGHwDl4UNTGdL-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;bestcrm-online&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;线上服务&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="500" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="u89XBhYRGHwDl4UNTGdL-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;bestcrm-value&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;绩效&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="100" x="450" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="u89XBhYRGHwDl4UNTGdL-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;bestcrm-fee&lt;/span&gt;&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;佣金&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="250" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="u89XBhYRGHwDl4UNTGdL-15" edge="1" parent="1" source="u89XBhYRGHwDl4UNTGdL-1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="u89XBhYRGHwDl4UNTGdL-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="390" as="sourcePoint" />
+            <mxPoint x="430" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u89XBhYRGHwDl4UNTGdL-16" edge="1" parent="1" source="u89XBhYRGHwDl4UNTGdL-1" style="endArrow=classic;html=1;rounded=0;exitX=0.931;exitY=0.785;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" target="u89XBhYRGHwDl4UNTGdL-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="429.28932188134524" y="505" as="sourcePoint" />
+            <mxPoint x="429.28932188134524" y="455" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u89XBhYRGHwDl4UNTGdL-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="u89XBhYRGHwDl4UNTGdL-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="430" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u89XBhYRGHwDl4UNTGdL-18" edge="1" parent="1" source="u89XBhYRGHwDl4UNTGdL-1" style="endArrow=classic;html=1;rounded=0;" target="u89XBhYRGHwDl4UNTGdL-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="300" y="420" as="sourcePoint" />
+            <mxPoint x="350" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u89XBhYRGHwDl4UNTGdL-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="u89XBhYRGHwDl4UNTGdL-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="340" as="sourcePoint" />
+            <mxPoint x="390" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u89XBhYRGHwDl4UNTGdL-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.746;entryY=0.957;entryDx=0;entryDy=0;entryPerimeter=0;" target="u89XBhYRGHwDl4UNTGdL-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="310" as="sourcePoint" />
+            <mxPoint x="420" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u89XBhYRGHwDl4UNTGdL-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="411.08052610200275" y="327.5350586814418" as="sourcePoint" />
+            <mxPoint x="472" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
